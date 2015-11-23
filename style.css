@@ -1,0 +1,9 @@
+img {
+  width: 200px;
+}
+
+.newGrumble {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
